@@ -1,8 +1,7 @@
-
 from setuptools import setup, find_packages
 
 REQUIREMENTS = (
-    'django>=1.3',
+    'django',
 )
 TEST_REQUIREMENTS = (
     'mock',
